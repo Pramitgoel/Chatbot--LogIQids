@@ -201,7 +201,7 @@ class QuestionQueryChatBotService:
             response_prompt = QUESTION_QUERY_PROMPT_DETAILS[identifier].get("response_prompt")
             text = "Tell us more"
         else:
-            text = "Hi 👋 I am your virtual assistant for doubt resolution. How can I help you?"
+            text = "Hi 👋 I am Prakhar AI, your virtual assistant for doubt resolution. How can I help you?"
             response_prompt = []
             for identifier in QUESTION_QUERY_PROMPT_DETAILS.values():
                 if identifier.get("validation_rule"):
