@@ -1,0 +1,11 @@
+{
+  "question": "Why is the answer marked wrong?",
+  "selected_category": "OTHER",
+  "context": {
+    "question_text": "If 3x + 2 = 11, what is x?",
+    "solution_text": "Subtract 2 and divide by 3.",
+    "student_message": "I think the answer key may be incorrect.",
+    "expected_route": "answer_incorrect"
+  },
+  "note": "Synthetic example; contains no production student data."
+}

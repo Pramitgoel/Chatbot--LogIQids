@@ -1,0 +1,22 @@
+[
+  {"text": "Please explain the second step", "expected": "COULD_NOT_UNDERSTAND"},
+  {"text": "Why did they multiply by 5 here?", "expected": "COULD_NOT_UNDERSTAND"},
+  {"text": "I don't understand why the answer is 80", "expected": "COULD_NOT_UNDERSTAND"},
+  {"text": "Can you explain the solution?", "expected": "COULD_NOT_UNDERSTAND"},
+  {"text": "The question does not provide enough information", "expected": "QUESTION_MAY_BE_WRONG"},
+  {"text": "The conditions contradict each other", "expected": "QUESTION_MAY_BE_WRONG"},
+  {"text": "The answer is wrong because the question is missing a condition", "expected": "QUESTION_MAY_BE_WRONG"},
+  {"text": "None of the options match the question", "expected": "QUESTION_MAY_BE_WRONG"},
+  {"text": "The answer should be 40, not 80", "expected": "ANSWER_MAY_BE_INCORRECT"},
+  {"text": "Option C is correct but it marked A", "expected": "ANSWER_MAY_BE_INCORRECT"},
+  {"text": "My answer is right", "expected": "ANSWER_MAY_BE_INCORRECT"},
+  {"text": "The calculation in the solution gives a different result", "expected": "ANSWER_MAY_BE_INCORRECT"},
+  {"text": "There is a spelling mistake", "expected": "TYPING_MISTAKE"},
+  {"text": "Rectangle is spelled incorrectly", "expected": "TYPING_MISTAKE"},
+  {"text": "A word is missing in the second sentence", "expected": "TYPING_MISTAKE"},
+  {"text": "Option B is written twice", "expected": "TYPING_MISTAKE"},
+  {"text": "help", "expected": "OTHER"},
+  {"text": "The app is not opening", "expected": "OTHER"},
+  {"text": "I want more worksheets", "expected": "OTHER"},
+  {"text": "hello", "expected": "OTHER"}
+]
