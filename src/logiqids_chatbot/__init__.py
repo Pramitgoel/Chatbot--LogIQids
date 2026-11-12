@@ -1,1 +1,1 @@
-"""Focused portfolio extraction of the Prakhar AI chatbot subsystem."""
+"""Focused portfolio extraction of the LogiQids chatbot subsystem."""

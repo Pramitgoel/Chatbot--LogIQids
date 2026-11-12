@@ -1,6 +1,6 @@
-# Prakhar AI — Student Doubt Resolution Chatbot
+# Chatbot — Student Doubt Resolution
 
-Prakhar AI is an AI-assisted question-resolution system for an education product. It combines conversational state, retrieval-augmented generation, relevance checks, abuse and gibberish detection, structured LLM classification, confidence thresholds, and conservative fallbacks.
+Chatbot is an AI-assisted question-resolution system for an education product. It combines conversational state, retrieval-augmented generation, relevance checks, abuse and gibberish detection, structured LLM classification, confidence thresholds, and conservative fallbacks.
 
 This repository is a focused portfolio slice of a larger Django product. It intentionally excludes production settings, credentials, databases, customer data, and unrelated application code.
 
